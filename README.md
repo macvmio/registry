@@ -1,0 +1,2 @@
+# registry
+macOS VM registry
